@@ -21,7 +21,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 ** Please make sure you select the country you are in when asked at any step of the registration process.
 
-![SignuptoIBMCloud](https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png)
+![image](https://user-images.githubusercontent.com/16270682/140926329-d798e427-5b56-4b6c-bfe7-aacf4543b24c.png)
 
 ## Step 2: Create an instance of Watson Assistance service
 
