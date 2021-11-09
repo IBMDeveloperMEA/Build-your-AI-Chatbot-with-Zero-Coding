@@ -1,10 +1,10 @@
-# Build-your-AI-Chatbot-with-Zero-Coding
+# Build your AI Chatbot with Zero Coding
 
 
 
 ## Prerequisites
 - [IBM Cloud Account](http://ibm.biz/nocodebot)
-- [Twilio Account](www.twilio.com/referral/jO1067)
+- [Twilio Account](www.twilio.com/referral/V69RV9)
 
 
 ## Step 1: Sign-up/Login to IBM Cloud
