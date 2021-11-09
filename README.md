@@ -61,10 +61,13 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 4.1 - click on  create a new action
 
-<img width="611" alt="8" src="https://user-images.githubusercontent.com/16270682/140994447-32d80804-d41f-480c-9b7b-708e7a3ea474.PNG">
+
+<img width="611" alt="8" src="https://user-images.githubusercontent.com/16270682/141001953-15ebda6a-ed8f-4f9d-8819-667cd1ed9d24.PNG">
+
 
 4.2 - add "I want to transfer $100 to my friend" and click save
 
+<img width="439" alt="8-1" src="https://user-images.githubusercontent.com/16270682/141002029-eaeb7f69-002d-49e4-9ea8-02d657a91836.PNG">
 
 
 #### We are going to setup 3 steps for our action
@@ -74,12 +77,14 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 4.6 - Step 1: In our first step, enter **"How much would you like to transfer?"** and Under options, we can define the type of response we anticipate from the user. select **currency** and click on next step
 
+<img width="687" alt="8-2" src="https://user-images.githubusercontent.com/16270682/141002064-80f377c8-ff34-4d31-b6fb-d78342d82a0e.PNG">
 
 
 4.7 - Step 2: In our second step, enter **"When do you want to make this transfer?"** select **date** 
 
 ***Note that the system can detect dates in plain language, not just formatted (e.g. tomorrow, two weeks from now, etc...)***
 
+<img width="690" alt="10" src="https://user-images.githubusercontent.com/16270682/141002082-8c9cb0fc-7ac4-402b-8dbc-5284bfce3a04.PNG">
 
 
 
@@ -87,4 +92,5 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 Notice how we can use the $ sign to call upon pieces of information the user has already provided in an earlier step - these are called variables
 
+<img width="718" alt="11" src="https://user-images.githubusercontent.com/16270682/141002097-be91b270-179d-45ea-91b2-6e2e5d55be56.PNG">
 
