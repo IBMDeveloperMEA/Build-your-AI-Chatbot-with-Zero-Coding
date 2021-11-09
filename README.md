@@ -53,11 +53,38 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="718" alt="6" src="https://user-images.githubusercontent.com/16270682/140990991-b532b434-4c16-4f07-91b7-7d52a1052f51.PNG">
 
 
-3.2 - From the home window, select your first action, this will take you to a new window. From here click on create a new action
+3.2 - From the home window, select your first action, this will take you to a new window.
 <img width="521" alt="7" src="https://user-images.githubusercontent.com/16270682/140990999-45272753-e681-4bf4-ac46-f9ce886457ab.PNG">
 
 
+## Step 4: Create your First action
+
+4.1 - click on  create a new action
+
+<img width="611" alt="8" src="https://user-images.githubusercontent.com/16270682/140994447-32d80804-d41f-480c-9b7b-708e7a3ea474.PNG">
+
+4.2 - add "I want to transfer $100 to my friend" and click save
 
 
+
+#### We are going to setup 3 steps for our action
+
+
+4.3 - change the title of the action in the top left to something more consumable - "Transfer funds"
+
+4.6 - Step 1: In our first step, enter **"How much would you like to transfer?"** and Under options, we can define the type of response we anticipate from the user. select **currency** and click on next step
+
+
+
+4.7 - Step 2: In our second step, enter **"When do you want to make this transfer?"** select **date** 
+
+***Note that the system can detect dates in plain language, not just formatted (e.g. tomorrow, two weeks from now, etc...)***
+
+
+
+
+4.7 - Step 3: In our third step, add a simple confirmation message to make sure we've got everything right. add "Just confirming, you want to transfer $ "$<step1>" on "$<step2>?"
+
+Notice how we can use the $ sign to call upon pieces of information the user has already provided in an earlier step - these are called variables
 
 
