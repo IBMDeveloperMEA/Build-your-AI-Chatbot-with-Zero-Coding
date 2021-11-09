@@ -45,7 +45,16 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="957" alt="4" src="https://user-images.githubusercontent.com/16270682/140980993-13e3a96b-29f1-4e8d-9e4e-50694575c48f.PNG">
 
 
-## Step 3: Create an instance of Watson Assistance service
+## Step 3: Create your first assistant
+
+3.1- Name your assistant and click on create 
+<img width="718" alt="6" src="https://user-images.githubusercontent.com/16270682/140990991-b532b434-4c16-4f07-91b7-7d52a1052f51.PNG">
+
+
+3.2 - From the home window, select your first action, this will take you to a new window. From here click on create a new action
+<img width="521" alt="7" src="https://user-images.githubusercontent.com/16270682/140990999-45272753-e681-4bf4-ac46-f9ce886457ab.PNG">
+
+
 
 
 
