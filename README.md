@@ -9,7 +9,7 @@
 
 ## Step 1: Sign-up/Login to IBM Cloud
 
-1.1- If you are an existing user please this link to Login: http://ibm.biz/nocodebot
+1.1- If you are an existing user, click on this link to Login: http://ibm.biz/nocodebot
 
 And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on IBM Cloud: 
 
