@@ -1,6 +1,8 @@
 # Build your AI Chatbot with Zero Coding
 
+In this workshop, we are going to create a  customer service Assistant for a bank. We are looking to automate some of the top questions that are reaching our agents via support chat on our site,in this scenario - people trying to transfer money to friends or family.
 
+We will Start by redirecting people contextually into the bank's application if they have a transfer to make under $1000
 
 ## Prerequisites
 - [IBM Cloud Account](http://ibm.biz/nocodebot)
