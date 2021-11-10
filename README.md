@@ -166,4 +166,13 @@ Now we will see how you can integrate your Watson Assistant as web-chat and with
 
 #### WhatsApp with Twilio
 
+8.4 - To integrate your Watson Assistant you will need a [Twilio Account](www.twilio.com/referral/V69RV9). Once you have your Twilio account visit [Link](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp) and follow the steps.
+
+### Things you can Try Further:
+
+[Develop an AI-infused automation tool to convert business FAQs to Watson Assistant-ready chatbot input](https://developer.ibm.com/articles/develop-an-ai-infused-automation-tool-to-convert-business-faqs-to-watson-assistant-ready-chatbot-input/?mhsrc=ibmsearch_a&mhq=watson%20assistant)
+
+
+
+
 
