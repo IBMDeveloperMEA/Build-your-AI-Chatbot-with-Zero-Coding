@@ -88,7 +88,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 
 
-4.7 - Step 3: In our third step, add a simple confirmation message to make sure we've got everything right. add "Just confirming, you want to transfer $ "$(step1)" on "$(step2)?"
+4.7 - Step 3: In our third step, add a simple confirmation message to make sure we've got everything right. add "Just confirming, you want to transfer $ "$step1" on "$step2?"
 
 Notice how we can use the $ sign to call upon pieces of information the user has already provided in an earlier step - these are called variables
 
