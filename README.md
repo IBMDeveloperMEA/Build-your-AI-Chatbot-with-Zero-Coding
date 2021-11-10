@@ -155,7 +155,15 @@ Now we will see how you can integrate your Watson Assistant as web-chat and with
 
 8.1 - Open Navigation bar, select integration and select Web Chat. Keep the environment as draft and click confirm.
 
+<img width="848" alt="12" src="https://user-images.githubusercontent.com/16270682/141107416-6d874d51-8682-46ea-b6ca-c791c8178cfe.PNG">
+<img width="539" alt="13" src="https://user-images.githubusercontent.com/16270682/141107447-cbeb4ed2-923c-4e07-8752-9aebf9e92a10.PNG">
+
+
 8.2 - Here you can customize your Chatbot as below
 
-8.3 - To integrate your chatbot simply copy the code from Embed 
+8.3 - To integrate your chatbot with your application, simply copy the code from Embed section and paste it in Header of your application's HTML file and your chatbot will be integrated. You can test it locally as well as with your live application.
+
+
+#### WhatsApp with Twilio
+
 
