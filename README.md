@@ -110,4 +110,22 @@ Highlight "click here to continue" and make it a link. In the link, type the fol
 "dtebank.com/transfer?date=(step1)&amount=(step2)" You can, in fact, add variables to your URL, if your transactional engine requires it
 We must then indicate to the system that this step ends the action successfully
 
+![a690876349b2fcc13fcb7a89c85b58d50d5061da](https://user-images.githubusercontent.com/16270682/141098228-7e311c80-4f79-406f-b7e7-adc355d198ea.gif)
+
+
+4.9 - Step 3(c): let's define what happens if the user selects No. 
+
+Add **"Whoops! Let's start over."**
+
+In this case, instead of ending the action, we'd want to re-prompt previous steps so the user can start over. Select all of them so that the user goes back to the beginning of the action. Select every step (1-4) to re-prompt
+
+![f69f5ff044209b769ae127327f5208fc53ab1807](https://user-images.githubusercontent.com/16270682/141099336-7a672246-3756-4b27-bd5b-6b16e1aee779.gif)
+
+
+
+
+## Step 5: digressions
+
+5.1 - Truly complex situations, such as when customers change the topic of a conversation entirely mid-flow, are called digressions. 
+
 
