@@ -97,10 +97,17 @@ Notice how we can use the $ sign to call upon pieces of information the user has
 In this step, you can also define options for our customers from directly within the step itself - unlike most tools which require you to set up a separate "entity"
 Let's add yes and no under **options**, We can even add some synonyms for Yes and No yeah, ya, nah, nope. Also change the skip step setting to "always ask".
 
+![9914888687f9cbaed1444ecdbaf8cda81db0697b](https://user-images.githubusercontent.com/16270682/141095702-c458b50f-74a1-4352-9b50-5444ce8cf0b5.gif)
 
 
-4.8 - Step 3(b): let's define what happens if the user selects Yes or No. In this step, user selects YES. To set this up, we will add a condition, which must be met for this step to be triggered
+4.8 - Step 3(b): let's define what happens if the user selects Yes or No. In this step, user selects YES. 
+
+To set this up, we will add a condition, which must be met for this step to be triggered
+
 add **"Great, let's finish the transfer directly in our app where we will gather your account information and the transfer destination. Click here to continue."** 
+
 Highlight "click here to continue" and make it a link. In the link, type the following:
 "dtebank.com/transfer?date=(step1)&amount=(step2)" You can, in fact, add variables to your URL, if your transactional engine requires it
 We must then indicate to the system that this step ends the action successfully
+
+
