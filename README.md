@@ -122,9 +122,14 @@ In this case, instead of ending the action, we'd want to re-prompt previous step
 ![f69f5ff044209b769ae127327f5208fc53ab1807](https://user-images.githubusercontent.com/16270682/141099336-7a672246-3756-4b27-bd5b-6b16e1aee779.gif)
 
 
+## Step 5: Preview
+
+To test your chatbot, click on preview and try it out like below.
+
+![ef0cd7abef668e469c138f68978aa47e54a56c2c](https://user-images.githubusercontent.com/16270682/141103224-b6baf2ec-d9e4-40a7-87d5-7faa9585f137.gif)
 
 
-## Step 5: digressions
+## Step 6: digressions
 
 5.1 - Truly complex situations, such as when customers change the topic of a conversation entirely mid-flow, are called digressions. 
 
@@ -134,4 +139,23 @@ Create new action > add example **"What is the transfer limit?"** then, Edit ste
 
 ![5a5a803e7754df7a232738bd4096c23d593f7335](https://user-images.githubusercontent.com/16270682/141100667-340ad900-79ed-4f3f-a5eb-c781a476f7bd.gif)
 
+
+## Step 7: Test Digression in Preview
+
+7.1 - To test your chatbot's digression capabilities, click on preview and try it out like below. Here you can notice how Watson Assistant jumps back to previous step after digression.
+
+![7297d2e493c47f0c553c97338eb389ad367a804a](https://user-images.githubusercontent.com/16270682/141104393-5158cc33-6469-4846-9ea5-56fb9ff91069.gif)
+
+
+## Step 8: Integration
+
+Now we will see how you can integrate your Watson Assistant as web-chat and with third party tools
+
+#### Web Chat
+
+8.1 - Open Navigation bar, select integration and select Web Chat. Keep the environment as draft and click confirm.
+
+8.2 - Here you can customize your Chatbot as below
+
+8.3 - To integrate your chatbot simply copy the code from Embed 
 
