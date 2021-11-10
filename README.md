@@ -128,4 +128,10 @@ In this case, instead of ending the action, we'd want to re-prompt previous step
 
 5.1 - Truly complex situations, such as when customers change the topic of a conversation entirely mid-flow, are called digressions. 
 
+In this example, let's plan for scenarios where your customer asks what the transfer limit is during the transfer flow. To do this, we simply need to build a new action with a single step in response
+Create new action > add example **"What is the transfer limit?"** then, Edit step 1 **"The maximum daily transfer limit for all customers is $10,000."**. And then: End the action
+
+
+![5a5a803e7754df7a232738bd4096c23d593f7335](https://user-images.githubusercontent.com/16270682/141100667-340ad900-79ed-4f3f-a5eb-c781a476f7bd.gif)
+
 
