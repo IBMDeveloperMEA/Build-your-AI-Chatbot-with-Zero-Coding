@@ -2,7 +2,7 @@
 
 In this workshop, we are going to create a  customer service Assistant for a bank. We are looking to automate some of the top questions that are reaching our agents via support chat on our site,in this scenario - people trying to transfer money to friends or family.
 
-We will Start by redirecting people contextually into the bank's application if they have a transfer to make under $1000
+We will Start by redirecting people contextually into the bank's application if they have a transfer to make under $10000
 
 ## Prerequisites
 - [IBM Cloud Account](http://ibm.biz/nocodebot)
@@ -44,7 +44,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 2.4 - Go to top right, select manage > Switch to new experience, it will prompt a confirmation message, click on switch.
 
-<img width="957" alt="4" src="https://user-images.githubusercontent.com/16270682/140980993-13e3a96b-29f1-4e8d-9e4e-50694575c48f.PNG">
+<img width="957" alt="140980993-13e3a96b-29f1-4e8d-9e4e-50694575c48f" src="https://user-images.githubusercontent.com/16270682/141315520-bff02427-2e15-4e8c-a224-57a657dde995.PNG">
 
 
 ## Step 3: Create your first assistant
