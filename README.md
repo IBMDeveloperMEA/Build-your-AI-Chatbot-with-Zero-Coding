@@ -1,4 +1,4 @@
-# Build your AI Chatbot with Zero Coding
+# Build your AI infused Banking Chatbot using new Watson Assistant UI
 
 In this workshop, we are going to create a  customer service Assistant for a bank. We are looking to automate some of the top questions that are reaching our agents via support chat on our site,in this scenario - people trying to transfer money to friends or family.
 
