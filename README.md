@@ -1,4 +1,4 @@
-# Build your AI infused Banking Chatbot using new Watson Assistant UI
+# Build your AI infused Banking Chatbot using new Watsonx Assistant UI
 
 In this workshop, we are going to create a  customer service Assistant for a bank. We are looking to automate some of the top questions that are reaching our agents via support chat on our site,in this scenario - people trying to transfer money to friends or family.
 
@@ -25,9 +25,9 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 ![image](https://user-images.githubusercontent.com/16270682/140926329-d798e427-5b56-4b6c-bfe7-aacf4543b24c.png)
 
-## Step 2: Create an instance of Watson Assistance service
+## Step 2: Create an instance of Watsonx Assistance service
 
-2.1 - Fron Dashboard search for Watson Assistant service in catalog 
+2.1 - Fron Dashboard search for Watsonx Assistant service in catalog 
 
 <img width="585" alt="1" src="https://user-images.githubusercontent.com/16270682/140980671-23b74739-acd5-4a1d-9ed5-fb164d05f0bf.PNG">
 
@@ -37,7 +37,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="825" alt="2" src="https://user-images.githubusercontent.com/16270682/140980692-2de653ce-f4ea-4bc2-89c6-a179d6a7eb8b.PNG">
 
 
-2.3 - Click on Launch Watson Assistant to start building your chatbot
+2.3 - Click on Launch Watsonx Assistant to start building your chatbot
 
 <img width="710" alt="3" src="https://user-images.githubusercontent.com/16270682/140980716-fe3b93a3-98b1-4128-b6c6-a4f236beb33c.PNG">
 
@@ -149,7 +149,7 @@ Create new action > add example **"What is the transfer limit?"** then, Edit ste
 
 ## Step 8: Integration
 
-Now we will see how you can integrate your Watson Assistant as web-chat and with third party tools
+Now we will see how you can integrate your Watsonx Assistant as web-chat and with third party tools
 
 #### Web Chat
 
@@ -169,11 +169,11 @@ Now we will see how you can integrate your Watson Assistant as web-chat and with
 
 #### WhatsApp with Twilio
 
-8.4 - To integrate your Watson Assistant you will need a [Twilio Account](www.twilio.com/referral/V69RV9). Once you have your Twilio account visit [Link](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp) and follow the steps.
+8.4 - To integrate your Watsonx Assistant you will need a [Twilio Account](www.twilio.com/referral/V69RV9). Once you have your Twilio account visit [Link](https://github.com/IBMDeveloperMEA/Integrating-Watson-Assistant-with-Whatsapp) and follow the steps.
 
 ### Things you can Try Further:
 
-[Develop an AI-infused automation tool to convert business FAQs to Watson Assistant-ready chatbot input](https://developer.ibm.com/articles/develop-an-ai-infused-automation-tool-to-convert-business-faqs-to-watson-assistant-ready-chatbot-input/?mhsrc=ibmsearch_a&mhq=watson%20assistant)
+[Develop an AI-infused automation tool to convert business FAQs to Watsonx Assistant-ready chatbot input](https://developer.ibm.com/articles/develop-an-ai-infused-automation-tool-to-convert-business-faqs-to-watson-assistant-ready-chatbot-input/?mhsrc=ibmsearch_a&mhq=watson%20assistant)
 
 
 
